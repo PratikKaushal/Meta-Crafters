@@ -32,14 +32,15 @@ function printTotalSupply() {
 }
 
 
-mintNFT("Epic Dragon", "Red", "Armor", "Golden Sword");
-mintNFT("Mystic Elf", "Green", "Robe", "Magic Staff");
+mintNFT("Red Dragon", "Red", "Armor", "Golden Flame");
+mintNFT("Mystic Falls", "Blue", "Robe", "Magic Flint");
 
 
-mintNFT("Cyber Punk", "Blue", "Leather Jacket", "Holo Goggles");
+mintNFT("Cyber Warriour", "White", "Leather Jacket", "Holo Goggles");
 
 
 printNFTDetails();
 
 
 printTotalSupply();
+
